@@ -1,0 +1,12 @@
+LIBRARY	"s7crypto"
+EXPORTS
+
+DecryptHeader
+EncryptHeader
+
+DecryptFileHeader
+
+DecryptIndexTable
+EncryptIndexTable
+
+SetMode
